@@ -8,9 +8,11 @@ td {
   height:150px;
   width:150px;
   text-align: center;
-  border: 5px solid black;
+  border: 5px solid white;
   font-size: 100px;
   font-family: 'Permanent Marker', cursive;
+  color: white;
+  background-color: black;
 }
 
 table {
