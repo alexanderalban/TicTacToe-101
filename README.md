@@ -7,6 +7,10 @@
 1. Open your Chrome inspector tool and select the Console tab.
 1. Deselect the "Select an element in the page to inspect" tool - *so you don't have highlights chasing your cursor*.
 1. Click on the top-left box...what happens in the console.
+    ((((You see a the following: 
+        The element you clicked on has an id: top-left
+            ***The current marker is: X***
+            Therefore, a "X" should be placed in the square with the id: top-left"))))
     * you should see something like the following screenshot:
     * ![Console-Tab-Example](./images/Console-Tab-Example.png)
 1. Notice the notes on the far right: `scripts.js: 20`, `scripts.js: 43`, and `scripts.js: 44`. These tell you what line of code this log was generated.
