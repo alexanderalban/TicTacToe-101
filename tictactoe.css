@@ -1,16 +1,16 @@
 .jumbotron {
   margin: 5% auto;
   text-align: center;
-  font-family: 'Gloria Hallelujah', cursive;
+  font-family: "Gloria Hallelujah", cursive;
 }
 
 td {
-  height:150px;
-  width:150px;
+  height: 150px;
+  width: 150px;
   text-align: center;
   border: 5px solid white;
   font-size: 100px;
-  font-family: 'Permanent Marker', cursive;
+  font-family: "Permanent Marker", cursive;
   color: white;
   background-color: black;
 }
